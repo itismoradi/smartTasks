@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+PROJECT(smartTasks)
+SET(CMAKE_CXX_STANDARD 11)
+ADD_EXECUTABLE(smartTasks
+	./src/main.cpp
+              )
